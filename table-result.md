@@ -9,14 +9,14 @@
 | https://github.com/abelogur/tin-invest-robot | Работа в номинации Java, создание и работа с роботом происходят через REST API. | Java |
 | https://github.com/aiooq/Tinkoff-SQL-SDK | Интересная работа на SQL одного из активных участников. Приложена видео инструкция. Написаны коннекторы к нескольким языкам. | SQL |
 | https://github.com/ako2345/SimpleGridBot | Сеточный бот для Tinkoff Invest Robot Contest написанный на Java Spring. | Java |
-| https://github.com/alex2304/tinkoff-contest-python | Торговая система с подключаемыми стратегиями, написанная на Python.<br><br>Решение о торговле принимает стратегия. Всю остальную работу берет на себя система. | Java |
+| https://github.com/alex2304/tinkoff-contest-python | Торговая система с подключаемыми стратегиями, написанная на Python.<br><br>Решение о торговле принимает стратегия. Всю остальную работу берет на себя система. | Python |
 | [https://github.com/alexey-plotnikoff/tinkoff-invest-api-example](https://www.google.com/url?q=https://github.com/alexey-plotnikoff/tinkoff-invest-api-example&sa=D&source=editors&ust=1653919670047455&usg=AOvVaw3GpqS_NmbUPpnEyntJpz3s) | Бстрый и хорошо структурированный торговый робот на java. | Java |
 | https://github.com/alexzaikov/sirius | Торговый робот на Python. | Python |
 | https://github.com/AndreiSoiko/tinkoffSDK | Это торговый робот, написанный на языке python, которым можно управлять через телеграмм бота. | Python |
 | https://github.com/AndreVasilev/Kwatoko | Победитель номинации “Лучший торговый робот для мобильных устройств”.<br><br>Приложение на swift для яблочных устройств.<br>В приложении доступно создание до 10 роботов с указанием стратегии, инструмента и всех необходимых для торговли по выбранной стратегии параметров. | Swift |
 | https://github.com/Antonboom/tinkoff-invest-robot-contest-2022 | Робот на Go использующий 2 стратегии. Есть визуализация статистики работы с помощью grafana и симулятор. | Go |
 | [https://github.com/axaratox/invest](https://www.google.com/url?q=https://github.com/axaratox/invest&sa=D&source=editors&ust=1653919670050525&usg=AOvVaw1_7w9LACFfnWuZS_NbTIBC) | Инвестиционный калькулятор на Java. | Java |
-| [https://github.com/beilak/MathToMoney](https://github.com/beilak/MathToMoney) | Платформа предоставляет возможность подключать/разрабатывать мат. модели для алгоритмического трейдинга. Python. | Java |
+| [https://github.com/beilak/MathToMoney](https://github.com/beilak/MathToMoney) | Платформа предоставляет возможность подключать/разрабатывать мат. модели для алгоритмического трейдинга. Python. | Python |
 | https://github.com/betslus1/bestbot | Победитель номинации “Самое оригинальное использование API Тинькофф Инвестиций”.<br><br>Очень хорошо продуманная и реализованная игра. Работа так же отличается хорошей визуализацией. Написано на JS, имеет на борту логирование, статистику, и хранение данных. | JS |
 | https://github.com/borjomeeee/tinkoff-robot-contest-js | Робот на NodeJS разработанный с целью максимально просто интегрировать новые стратегии основанные на различных индикаторах технического анализа. | JS |
 | [https://github.com/ChnrVn/TinkTest](https://www.google.com/url?q=https://github.com/ChnrVn/TinkTest&sa=D&source=editors&ust=1653919670051057&usg=AOvVaw1ciiJ2JvrJE8bOy2AhTreX) | Робот на Java. | Java |
