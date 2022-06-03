@@ -3,7 +3,9 @@
 ##
 Спасибо всем участникам! 
 
-Результаты конкурса опубликованы на странице [результатов](https://github.com/Tinkoff/invest-robot-contest/blob/main/result.md) 
+Результаты конкурса опубликованы на странице [результатов](https://github.com/Tinkoff/invest-robot-contest/blob/main/result.md).
+
+Таблица с описанием конкурсных работ опубликована на [странице](https://github.com/Tinkoff/invest-robot-contest/blob/main/table-result.md).
 
 ## Соревнуемся в создании торговых роботов
 
