@@ -50,17 +50,17 @@
 | https://github.com/Loginov-Mikhail/TinkoffInvestBot | Робот на Python. В данном роботе реализован алгоритм торговли акциями по стохастическому осциллятору на пятиминутном таймфрейме. | Python |
 | https://github.com/m8u/tinkoff-invest-contest | Торговый робот на Go. | Go, JS |
 | https://github.com/metaseller/tinkoff-robot-buyer | Торговый робот на PHP использующий собственный неофициальны SDK и обетку для него Yii2 Framework. | PHP |
-| https://github.com/MitjaSh/tinkoff\_trader | Торговый робот на Python. | Python |
-| https://github.com/Mordvintsevmv/trading\_bot | Торговый робот на Python телеграм-бот. Главное особенностью данного торгового бота является его понятность и простота в использовании. Любой пользователь может без предварительного изучения списка команд или теории по трейдингу воспользоваться данным проектом. | Python |
+| https://github.com/MitjaSh/tinkoff_trader | Торговый робот на Python. | Python |
+| https://github.com/Mordvintsevmv/trading_bot | Торговый робот на Python телеграм-бот. Главное особенностью данного торгового бота является его понятность и простота в использовании. Любой пользователь может без предварительного изучения списка команд или теории по трейдингу воспользоваться данным проектом. | Python |
 | [https://github.com/naketu/tinkoff_robot.git](https://github.com/naketu/tinkoff_robot.git) | Робот на Python. | Python |
 | [https://github.com/nazmiev/Tinkoff-stream-grid-bot](https://github.com/nazmiev/Tinkoff-stream-grid-bot) | Сеточный бот на Python. | Python |
-| https://github.com/Perevalov/tinvest\_robot | Tinvest Robot Perevalov - это Python Библиотека, реализующая функциональность торгового робота на основе Tinkoff Invest API для Python с торговой стратегией, основанной на анализе тональности новостей. | Python |
+| https://github.com/Perevalov/tinvest_robot | Tinvest Robot Perevalov - это Python Библиотека, реализующая функциональность торгового робота на основе Tinkoff Invest API для Python с торговой стратегией, основанной на анализе тональности новостей. | Python |
 | https://github.com/Pruanik/tinkoff-trading-bot | Торговый робот на Go и JS, имеет UI и хорошее описание. | Go, JS |
 | https://github.com/pskucherov/OpexBot | Торговый робот на JS, вся работа с робот происходит через UI. | JS |
 | https://github.com/pskucherov/OpexViewer | <span style="font-size:10pt;font-family:Arial;font-weight:bold;font-style:normal;">UI для торгового робота </span>[<span style="font-size:10pt;font-family:Arial;font-weight:bold;font-style:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;">https://github.com/pskucherov/OpexBot</span>](https://github.com/pskucherov/OpexBot) | JS |
 | https://github.com/qwertyo1/tinkoff-trading-bot | Победитель в номинации “Лучший пример торгового робота на языке Python”. Выделяется простотой сборки и качеством работы. | Python |
 | https://github.com/roman-struchev/tinkoff-invest | Победитель в номинации “Лучший пример торгового робота на языке Java”. К роботу опционально подключается Телеграм бот, поддерживается запуск из docker, имеется CI\CD и статистика по брокерскому счету. | Java |
-| https://github.com/ruisdaeless/tinkoff\_invest\_knime | Workspace KNIME с простым функционалом взаимодействия API Тинькофф Инвестиций. | KNIME |
+| https://github.com/ruisdaeless/tinkoff_invest_knime | Workspace KNIME с простым функционалом взаимодействия API Тинькофф Инвестиций. | KNIME |
 | https://github.com/s41ty/IamRICH | «I am RICH» - торговый робот использующий API Тинькофф Инвестиций для платформ iOS, macOS и tvOS. Единый исходный код на Swift 5 позволяет использовать приложения на любых девайсах Apple - iPhone, iPad, Mac, TV и пр. Используется декларативный язык разметки SwiftUI и реактивный фреймворк Combine. | Swift |
 | [https://github.com/s41ty/TinkoffInvestSDK](https://github.com/s41ty/TinkoffInvestSDK) | Библиотека для взаимодействия с торговой платформой Тинькофф Инвестиции написанная на Swift. | Swift |
 | https://github.com/samoilovv/TinkoffInvestBot | Робот на С++. Благодаря данному приложению вы можете управлять своими инвестициями как вручную, так и с помощью различных торговых роботов, прямо из своего мессенджера Телеграм. | C++ |
@@ -76,5 +76,5 @@
 | https://github.com/VladimirTalyzin/NeuroInvest | Торговый робот с серверной частью на Python и мобильное приложение для просмотра данных на Kotlin. | Python |
 | [https://github.com/xeritt/TinkoffBot](https://www.google.com/url?q=https://github.com/xeritt/TinkoffBot&sa=D&source=editors&ust=1653919670046987&usg=AOvVaw0JkP6Ui5Hj1QWbRkIMsVZ8) | Торговый робот на Java. | Java |
 | https://github.com/ykvlv/invest-robot-contest | Торговый робот на Go с развернутым описанием. Есть Автоматизация рутинных операций, визуальзация работы алгоритма. | Go |
-| https://github.com/Yurgers/tinkoff\_invest\_robot | Торговый робот на Python с использование Flask. | Python |
+| https://github.com/Yurgers/tinkoff_invest_robot | Торговый робот на Python с использование Flask. | Python |
 | https://github.com/zaretkim/InvestDividendsRobot | Торговый робот на Java. Реализует пре-дивидендную стратегию. | Java |
